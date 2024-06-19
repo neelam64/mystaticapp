@@ -5,7 +5,7 @@ function App() {
   return <div>
     <h1>Hello {value}</h1>
    <h2>This is my React Static web Application</h2>
-   <p> My name is Neelam Mangnani</p>
+   <p> My name is Neelam Mangnani.</p>
    </div>;
 }
 
